@@ -42,7 +42,7 @@ Geliştirici: Kerem Ergüner
 
 ## 👥 Takım Bilgileri
 
-- **Eda EREN**: Scrum Master, Product Owner
+- **Eda EREN**: Scrum Master, Product Owner, Developer
 - **Kerem ERGÜNER**: Product Owner, Developer
 
 ---
