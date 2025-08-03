@@ -207,3 +207,17 @@ oSprint Review katılımcıları: Eda EREN, Kerem ERGÜNER
 ## Sprint Retrospective:
 Sprint 1 ve 2'de daha çok takım olarak zayıf yönlerin geliştirilmesine odaklanılmış olup 3. sprint için yoğun bir planlama yapılmıştır. 
 
+## Sprint 3
+## Sprint Notları: 
+Oyun basit düzey oynanabilir hale getirilmiştir.
+## Sprint içinde tamamlanması tahmin edilen puan: 200 Puan
+### Puan tamamlama mantığı: 
+Proje boyunca tamamlanması gereken toplam 600 puanlık görev bulunmaktadır. 3. sprint sonunda toplam 350 puanlık ilerleme kaydedilerek basit düzey oynanabilir hale getirilmiştir.
+## Daily Scrum: 
+Whatsapp üzerinden görüşmeler devam etmiştir.
+## Ürün Durumu: 
+Ürün basit düzeyde kullanıma hazırdır.
+## Sprint Review:
+ Review katılımcıları: Eda EREN, Kerem ERGÜNER
+## Sprint Retrospective:
+Oyunun amaç ve hedefleri belirlenmiş olup bu doğrultuda basit düzeyde oynanabilir bir tasarım elde edilmiştşir. 
